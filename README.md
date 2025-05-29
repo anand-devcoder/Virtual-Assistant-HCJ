@@ -10,7 +10,7 @@ Text-to-Speech: Provides audio responses using speech synthesis.
 Interactive UI: Clean, responsive user interface using HTML and CSS.
 <br>
 Custom Commands: Can open web pages (e.g., Google, YouTube), tell jokes, provide time/date, etc.
-<br>
+<br><br>
 Technologies Used:<br>
 HTML: Structure of the web page
 <br>
