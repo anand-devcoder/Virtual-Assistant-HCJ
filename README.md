@@ -1,7 +1,7 @@
 Project Description: Virtual Assistant using HTML, CSS, and JavaScript<br>
 
 This Virtual Assistant project is a browser-based AI assistant developed using HTML, CSS, and JavaScript. It interacts with users through voice commands and provides spoken responses using the Web Speech API. The assistant can perform tasks such as telling the time and date, opening websites, answering basic questions, greeting users, and more.
-<br>
+<br><br>
 Key Features:<br>
 Voice Recognition: Uses Web Speech API to listen and respond to user commands.
 <br>
